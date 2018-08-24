@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1430745e-9fbf-4629-892e-cf6f7e86bb5c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1533044282760" expanded="true" signature="4182:4269" ph="SELECT Name,... User" />
+                <marker date="1533044282760" expanded="true" signature="13098:13148" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="14115:14217" ph="INSERT INTO user... " />
+                <marker date="1533044282760" expanded="true" signature="14307:14390" ph="INSERT INTO accounts... " />
+                <marker date="1533044282760" expanded="true" signature="17979:18066" ph="SELECT Name,... User" />
+                <marker date="1533044282760" expanded="true" signature="18973:19037" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="20768:20818" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="20988:21077" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="22757:22841" ph="INSERT INTO accounts... " />
+                <marker date="1533044282760" expanded="true" signature="26926:26998" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="27095:27157" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="28884:28956" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="29181:29243" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="30016:30148" ph="UPDATE user " />
+                <marker date="1533044282760" expanded="true" signature="34020:34081" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="34181:34243" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="36360:36473" ph="INSERT INTO moneyin... " />
+                <marker date="1533044282760" expanded="true" signature="40228:40289" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="40389:40452" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="42524:42611" ph="SELECT SUM(d... moneyin" />
+                <marker date="1533044282760" expanded="true" signature="42793:42891" ph="SELECT SUM(w... moneyout" />
+                <marker date="1533044282760" expanded="true" signature="43695:43811" ph="INSERT INTO moneyout... " />
+                <marker date="1533044282760" expanded="true" signature="44479:44595" ph="INSERT INTO moneyout... " />
+                <marker date="1533044282760" expanded="true" signature="48944:49005" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="49105:49167" ph="SELECT * FRO... user" />
+                <marker date="1533044282760" expanded="true" signature="51565:51651" ph="SELECT SUM(d... moneyin" />
+                <marker date="1533044282760" expanded="true" signature="51800:51898" ph="SELECT SUM(w... moneyout" />
+                <marker date="1533044282760" expanded="true" signature="52250:52315" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="52500:52617" ph="INSERT INTO moneyin... " />
+                <marker date="1533044282760" expanded="true" signature="52675:52788" ph="INSERT INTO moneyout... " />
+                <marker date="1533044282760" expanded="true" signature="53787:53852" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="54025:54142" ph="INSERT INTO moneyin... " />
+                <marker date="1533044282760" expanded="true" signature="54197:54310" ph="INSERT INTO moneyout... " />
+                <marker date="1533044282760" expanded="true" signature="56486:56547" ph="SELECT * FRO... accounts" />
+                <marker date="1533044282760" expanded="true" signature="56647:56733" ph="SELECT SUM(d... moneyin" />
+                <marker date="1533044282760" expanded="true" signature="56841:56939" ph="SELECT SUM(w... moneyout" />
+                <marker date="1533044282760" expanded="true" signature="59551:59658" ph="SELECT usern... " />
+                <marker date="1533044282760" expanded="true" signature="59715:59820" ph="SELECT usern... " />
+                <marker date="1533044282760" expanded="true" signature="59877:59980" ph="SELECT usern... " />
+                <marker date="1533044282760" expanded="true" signature="64411:64537" ph="SELECT name,... " />
+                <marker date="1533044282760" expanded="true" signature="66492:66619" ph="SELECT name,... " />
+                <marker date="1533044282760" expanded="true" signature="68522:68588" ph="SELECT name,... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="asdfghjkl" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1430745e-9fbf-4629-892e-cf6f7e86bb5c" name="Default" comment="" />
+      <created>1532940901534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532940901534</updated>
+      <workItem from="1532940906225" duration="4073000" />
+      <workItem from="1534151773345" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33680555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25617614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1533044282760" expanded="true" signature="4182:4269" ph="SELECT Name,... User" />
+            <marker date="1533044282760" expanded="true" signature="13098:13148" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="14115:14217" ph="INSERT INTO user... " />
+            <marker date="1533044282760" expanded="true" signature="14307:14390" ph="INSERT INTO accounts... " />
+            <marker date="1533044282760" expanded="true" signature="17979:18066" ph="SELECT Name,... User" />
+            <marker date="1533044282760" expanded="true" signature="18973:19037" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="20768:20818" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="20988:21077" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="22757:22841" ph="INSERT INTO accounts... " />
+            <marker date="1533044282760" expanded="true" signature="26926:26998" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="27095:27157" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="28884:28956" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="29181:29243" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="30016:30148" ph="UPDATE user " />
+            <marker date="1533044282760" expanded="true" signature="34020:34081" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="34181:34243" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="36360:36473" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="40228:40289" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="40389:40452" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="42524:42611" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="42793:42891" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="43695:43811" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="44479:44595" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="48944:49005" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="49105:49167" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="51565:51651" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="51800:51898" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="52250:52315" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="52500:52617" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="52675:52788" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="53787:53852" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="54025:54142" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="54197:54310" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="56486:56547" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="56647:56733" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="56841:56939" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="59551:59658" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="59715:59820" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="59877:59980" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="64411:64537" ph="SELECT name,... " />
+            <marker date="1533044282760" expanded="true" signature="66492:66619" ph="SELECT name,... " />
+            <marker date="1533044282760" expanded="true" signature="68522:68588" ph="SELECT name,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1533044282760" expanded="true" signature="4182:4269" ph="SELECT Name,... User" />
+            <marker date="1533044282760" expanded="true" signature="13098:13148" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="14115:14217" ph="INSERT INTO user... " />
+            <marker date="1533044282760" expanded="true" signature="14307:14390" ph="INSERT INTO accounts... " />
+            <marker date="1533044282760" expanded="true" signature="17979:18066" ph="SELECT Name,... User" />
+            <marker date="1533044282760" expanded="true" signature="18973:19037" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="20768:20818" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="20988:21077" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="22757:22841" ph="INSERT INTO accounts... " />
+            <marker date="1533044282760" expanded="true" signature="26926:26998" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="27095:27157" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="28884:28956" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="29181:29243" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="30016:30148" ph="UPDATE user " />
+            <marker date="1533044282760" expanded="true" signature="34020:34081" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="34181:34243" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="36360:36473" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="40228:40289" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="40389:40452" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="42524:42611" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="42793:42891" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="43695:43811" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="44479:44595" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="48944:49005" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="49105:49167" ph="SELECT * FRO... user" />
+            <marker date="1533044282760" expanded="true" signature="51565:51651" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="51800:51898" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="52250:52315" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="52500:52617" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="52675:52788" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="53787:53852" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="54025:54142" ph="INSERT INTO moneyin... " />
+            <marker date="1533044282760" expanded="true" signature="54197:54310" ph="INSERT INTO moneyout... " />
+            <marker date="1533044282760" expanded="true" signature="56486:56547" ph="SELECT * FRO... accounts" />
+            <marker date="1533044282760" expanded="true" signature="56647:56733" ph="SELECT SUM(d... moneyin" />
+            <marker date="1533044282760" expanded="true" signature="56841:56939" ph="SELECT SUM(w... moneyout" />
+            <marker date="1533044282760" expanded="true" signature="59551:59658" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="59715:59820" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="59877:59980" ph="SELECT usern... " />
+            <marker date="1533044282760" expanded="true" signature="64411:64537" ph="SELECT name,... " />
+            <marker date="1533044282760" expanded="true" signature="66492:66619" ph="SELECT name,... " />
+            <marker date="1533044282760" expanded="true" signature="68522:68588" ph="SELECT name,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
